@@ -1283,7 +1283,7 @@
     { "name": "Paradise Basilisk"             , "x":   364, "y":  8501, "category": "quest", "questGuideIds": ["53-59/55"], "icon": "map-marker", "style": {"color":"#a855f7"} },
     { "name": "Abrosian Snapper"              , "x":  1841, "y": 11207, "category": "quest", "questGuideIds": ["53-59/55"], "icon": "info-circle", "style": {"color":"#f1f5f9"} },
     { "name": "William Nothard"               , "x": 13530, "y":  5520, "category": "quest", "questGuideIds": ["1-20/highbourne/cleric","1-20/highbourne/paladin","1-20/qeynos/enchanter","1-20/qeynos/monk","misc/the-temple-of-light"], "icon": "info-circle", "style": {"color":"#f1f5f9"} },
-    { "name": "Tae-Ew Flamekeeper"            , "x":  8589, "y": 12491, "category": "quest", "questGuideIds": ["23-47/43"], "icon": "warehouse", "style": {"color":"#f1f5f9"} },
+    { "name": "Tae-Ew Flamekeeper"            , "x":  8654, "y": 12517, "category": "quest", "questGuideIds": ["23-47/43"], "icon": "warehouse", "style": {"color":"#f1f5f9"} },
     { "name": "Tae-Ew Excavator"              , "x":  8676, "y": 12491, "category": "quest", "questGuideIds": ["23-47/47"], "icon": "map-marker", "style": {"color":"#a855f7"} },
     { "name": "Tae-Ew Tunneler"               , "x":  8678, "y": 12507, "category": "quest", "questGuideIds": ["23-47/47"], "icon": "map-marker", "style": {"color":"#a855f7"} },
     { "name": "Nolram Barro"                  , "x": 10547, "y": 10959, "category": "quest", "questGuideIds": ["misc/the-temple-of-light"], "icon": "info-circle", "style": {"color":"#f1f5f9"} },
@@ -1395,7 +1395,7 @@
     { "name": "Frost Fairy"                   , "x":  5733, "y":   737, "category": "quest", "questGuideIds": ["misc/fairy-in-a-jug"], "icon": "info-circle", "style": {"color":"#f1f5f9"} },
     { "name": "Ice Fairy"                     , "x":  6173, "y":   641, "category": "quest", "questGuideIds": ["misc/fairy-in-a-jug"], "icon": "map-marker", "style": {"color":"#a855f7"} },
     { "name": "lavastorm fairy"               , "x": 13017, "y":   465, "category": "quest", "questGuideIds": ["misc/fairy-in-a-jug"], "icon": "map-marker", "style": {"color":"#a855f7"} },
-    { "name": "Hermit Washburn"               , "x": 11271, "y": 12963, "category": "quest", "questGuideIds": ["misc/highbourne-for-the-ring"], "icon": "info-circle", "style": {"color":"#f1f5f9"} },
+    { "name": "Hermit Washburn"               , "x": 11274, "y": 12984, "category": "quest", "questGuideIds": ["misc/highbourne-for-the-ring"], "icon": "info-circle", "style": {"color":"#f1f5f9"} },
     { "name": "grave ?"                       , "x": 10583, "y": 12089, "category": "quest", "questGuideIds": ["misc/highbourne-for-the-ring"], "icon": "map-marker", "style": {"color":"#a855f7"} },
     { "name": "Urtica Dioica"                 , "x":  7020, "y":  3292, "category": "quest", "questGuideIds": ["misc/highbourne-for-the-ring"], "icon": "info-circle", "style": {"color":"#f1f5f9"} },
     { "name": "Magus Niska"                   , "x": 13005, "y":  1065, "category": "quest", "questGuideIds": ["misc/highbourne-for-the-ring"], "icon": "map-marker", "style": {"color":"#a855f7"} },
@@ -2127,6 +2127,7 @@
     { "name": "The Bone Crusher"              , "x":  9844, "y": 13015, "category": "other", "icon": "map-marker", "style": {"color":"#f1f5f9"} },
     { "name": "SCARECROWS"                    , "x":  7457, "y":  6209, "category": "camp", "levelRange": "21-31", "icon": "users", "style": {"color":"#f1f5f9"} },
     { "name": "Bandit"                        , "x":  7561, "y":  6288, "category": "camp", "levelRange": "29-29", "icon": "users", "style": {"color":"#f1f5f9"} },
-    { "name": "Slesher Gnoll Camp"            , "x":  6651, "y":  4713, "category": "camp", "levelRange": "25-29", "icon": "users", "style": {"color":"#f1f5f9"} }
+    { "name": "Slesher Gnoll Camp"            , "x":  6651, "y":  4713, "category": "camp", "levelRange": "25-29", "icon": "users", "style": {"color":"#f1f5f9"} },
+    { "name": "Mestre da Forja"               , "x": 11274, "y": 12984, "category": "quest", "questGuideIds": ["misc/highbourne-for-the-ring"], "icon": "Exclamation", "style": {"color":"#f1f5f9"} }
   ]
 }
