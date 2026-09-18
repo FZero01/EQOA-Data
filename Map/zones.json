@@ -910,7 +910,7 @@
     { "name": "Crazed Mage"                   , "x":  7562, "y":  4951, "category": "quest", "questGuideIds": ["23-47/43"], "icon": "map-marker", "style": {"color":"#a855f7"} },
     { "name": "Frost Fur"                     , "x":  5284, "y":   212, "category": "quest", "questGuideIds": ["23-47/43"], "icon": "warehouse", "style": {"color":"#f1f5f9"} },
     { "name": "Broyce Sandstalker"            , "x": 11572, "y":  8994, "category": "quest", "questGuideIds": ["23-47/43"], "icon": "info-circle", "style": {"color":"#f1f5f9"} },
-    { "name": "Taksehir Craftsman"            , "x": 10645, "y": 12083, "category": "quest", "questGuideIds": ["23-47/43"], "icon": "map-marker", "style": {"color":"#a855f7"} },
+    { "name": "Taksehir Craftsman"            , "x": 10455, "y": 11687, "category": "quest", "questGuideIds": ["23-47/43"], "icon": "map-marker", "style": {"color":"#a855f7"} },
     { "name": "Lost Froglok"                  , "x": 13475, "y": 12014, "category": "quest", "questGuideIds": ["23-47/43"], "icon": "map-marker", "style": {"color":"#a855f7"} },
     { "name": "Aggravated Spirit"             , "x":  8002, "y":  9061, "category": "quest", "questGuideIds": ["23-47/43"], "icon": "map-marker", "style": {"color":"#a855f7"} },
     { "name": "Gate Guard Parilin"            , "x":  6015, "y":  1294, "category": "quest", "questGuideIds": ["23-47/45"], "icon": "info-circle", "style": {"color":"#f1f5f9"} },
