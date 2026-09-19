@@ -857,7 +857,6 @@
     { "name": "Yjuri the Vicious"             , "x":  7743, "y":  4121, "category": "quest", "questGuideIds": ["23-47/35"], "icon": "map-marker", "style": {"color":"#a855f7"} },
     { "name": "Tseralith"                     , "x": 12580, "y":  4188, "category": "quest", "questGuideIds": ["23-47/35"], "icon": "map-marker", "style": {"color":"#a855f7"} },
     { "name": "Pool of Tears"                 , "x": 13479, "y": 11079, "category": "quest", "questGuideIds": ["23-47/35"], "icon": "map-marker", "style": {"color":"#a855f7"} },
-    { "name": "Phorriun"                      , "x": 10569, "y":  5452, "category": "quest", "questGuideIds": ["23-47/35"], "icon": "map-marker", "style": {"color":"#a855f7"} },
     { "name": "Iulias Maphesti"               , "x": 13584, "y":  5553, "category": "quest", "questGuideIds": ["23-47/35"], "icon": "info-circle", "style": {"color":"#f1f5f9"} },
     { "name": "Caelduiel the Sacred"          , "x": 12583, "y":  8121, "category": "quest", "questGuideIds": ["23-47/35"], "icon": "map-marker", "style": {"color":"#a855f7"} },
     { "name": "Lelalia Shavererll"            , "x": 13663, "y":  4553, "category": "quest", "questGuideIds": ["23-47/35"], "icon": "map-marker", "style": {"color":"#a855f7"} },
@@ -2127,6 +2126,8 @@
     { "name": "The Bone Crusher"              , "x":  9844, "y": 13015, "category": "other", "icon": "map-marker", "style": {"color":"#f1f5f9"} },
     { "name": "SCARECROWS"                    , "x":  7457, "y":  6209, "category": "camp", "levelRange": "21-31", "icon": "users", "style": {"color":"#f1f5f9"} },
     { "name": "Bandit"                        , "x":  7561, "y":  6288, "category": "camp", "levelRange": "29-29", "icon": "users", "style": {"color":"#f1f5f9"} },
-    { "name": "Slesher Gnoll Camp"            , "x":  6651, "y":  4713, "category": "camp", "levelRange": "25-29", "icon": "users", "style": {"color":"#f1f5f9"} }
+    { "name": "Slesher Gnoll Camp"            , "x":  6651, "y":  4713, "category": "camp", "levelRange": "25-29", "icon": "users", "style": {"color":"#f1f5f9"} },
+    { "name": "Phoborium"                     , "x": 10459, "y":  4889, "category": "quest", "questGuideIds": ["23-47/35"], "icon": "map-marker", "style": {"color":"#a855f7"} },
+    { "name": "Merkans"                       , "x":   937, "y": 11911, "category": "camp", "levelRange": "28-35", "icon": "users", "style": {"color":"#f1f5f9"} }
   ]
 }
