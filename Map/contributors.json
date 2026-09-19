@@ -8,7 +8,7 @@
     {
       "login": "Jadiction",
       "id": 8557785,
-      "commits": 29
+      "commits": 32
     },
     {
       "login": "Chubakabrah",
@@ -26,6 +26,11 @@
       "commits": 5
     },
     {
+      "login": "lanceewright-a11y",
+      "id": 323147376,
+      "commits": 4
+    },
+    {
       "login": "OldSchoolJoe",
       "id": 174074074,
       "commits": 4
@@ -38,6 +43,16 @@
     {
       "login": "kixxii44",
       "id": 49811481,
+      "commits": 1
+    },
+    {
+      "login": "spiomabio1-design",
+      "id": 265703812,
+      "commits": 1
+    },
+    {
+      "login": "vladavram84-hue",
+      "id": 313414225,
       "commits": 1
     }
   ]
