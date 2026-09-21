@@ -2129,6 +2129,7 @@
     { "name": "Slesher Gnoll Camp"            , "x":  6651, "y":  4713, "category": "camp", "levelRange": "25-29", "icon": "users", "style": {"color":"#f1f5f9"} },
     { "name": "Mestre da Forja"               , "x": 11274, "y": 12984, "category": "quest", "questGuideIds": ["misc/highbourne-for-the-ring"], "icon": "Exclamation", "style": {"color":"#f1f5f9"} },
     { "name": "Phoborium"                     , "x": 10459, "y":  4889, "category": "quest", "questGuideIds": ["23-47/35"], "icon": "map-marker", "style": {"color":"#a855f7"} },
-    { "name": "Merkans"                       , "x":   937, "y": 11911, "category": "camp", "levelRange": "28-35", "icon": "users", "style": {"color":"#f1f5f9"} }
+    { "name": "Merkans"                       , "x":   937, "y": 11911, "category": "camp", "levelRange": "28-35", "icon": "users", "style": {"color":"#f1f5f9"} },
+    { "name": "Maiden’s Servant"              , "x":  1888, "y":  9385, "category": "raid-mob", "icon": "map-marker", "style": {"color":"#f59e0b"} }
   ]
 }
