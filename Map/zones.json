@@ -1620,7 +1620,7 @@
     { "name": "Highway Bandits"               , "x":  8352, "y":  5133, "category": "camp", "levelRange": "1-1", "icon": "users", "style": {"color":"#f1f5f9"} },
     { "name": "Barrow Cultists"               , "x":  8082, "y":  6822, "category": "camp", "levelRange": "1-1", "icon": "warehouse", "style": {"color":"#f1f5f9"} },
     { "name": "Thenon the Wise"               , "x":  8077, "y":  6799, "category": "quest", "questGuideIds": ["misc/thenon-the-wise"], "icon": "warehouse", "style": {"color":"#f1f5f9"} },
-    { "name": "Prexan Crabs"                  , "x":  3923, "y":  8149, "category": "camp", "levelRange": "1-1", "icon": "map-marker", "style": {"color":"#f1f5f9"} },
+    { "name": "Prexan Crabs"                  , "x":  3717, "y":  8178, "category": "camp", "levelRange": "1-1", "icon": "map-marker", "style": {"color":"#f1f5f9"} },
     { "name": "Skeletons"                     , "x":  4820, "y":  7378, "category": "camp", "levelRange": "1-1", "icon": "users", "style": {"color":"#f1f5f9"} },
     { "name": "Orcs"                          , "x":  5092, "y":  6827, "category": "camp", "levelRange": "1-1", "icon": "users", "style": {"color":"#f1f5f9"} },
     { "name": "Undead"                        , "x":  5239, "y":  7311, "category": "camp", "levelRange": "1-1", "icon": "map-marker", "style": {"color":"#f1f5f9"} },
