@@ -876,7 +876,7 @@
     { "name": "Jann Olos"                     , "x": 10657, "y":  5287, "category": "quest", "questGuideIds": ["23-47/35"], "icon": "map-marker", "style": {"color":"#a855f7"} },
     { "name": "Goblin Hijacker"               , "x": 10568, "y":  4489, "category": "quest", "questGuideIds": ["23-47/35"], "icon": "map-marker", "style": {"color":"#a855f7"} },
     { "name": "Fender Crow"                   , "x":  9605, "y":  5394, "category": "quest", "questGuideIds": ["23-47/35"], "icon": "info-circle", "style": {"color":"#f1f5f9"} },
-    { "name": "Dumak Olivarn"                 , "x": 10657, "y":  5307, "category": "quest", "questGuideIds": ["23-47/35"], "icon": "map-marker", "style": {"color":"#a855f7"} },
+    { "name": "Dumak Olivarn"                 , "x": 10491, "y":  5302, "category": "quest", "questGuideIds": ["23-47/35"], "icon": "map-marker", "style": {"color":"#a855f7"} },
     { "name": "Grave Robber Laen"             , "x": 11607, "y":  4822, "category": "quest", "questGuideIds": ["23-47/35"], "icon": "map-marker", "style": {"color":"#a855f7"} },
     { "name": "Rin Tintoggle"                 , "x":  9648, "y":  5387, "category": "quest", "questGuideIds": ["23-47/35"], "icon": "info-circle", "style": {"color":"#f1f5f9"} },
     { "name": "Model LXI"                     , "x":  8914, "y":  2735, "category": "quest", "questGuideIds": ["23-47/35"], "icon": "info-circle", "style": {"color":"#f1f5f9"} },
