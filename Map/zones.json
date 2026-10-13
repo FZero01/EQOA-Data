@@ -1513,7 +1513,7 @@
     { "name": "Treant Defender/Diviner"       , "x":  6592, "y":  1775, "category": "camp", "levelRange": "1-1", "icon": "map-marker", "style": {"color":"#f1f5f9"} },
     { "name": "Baercis"                       , "x":  6565, "y":  2594, "category": "quest", "questGuideIds": ["misc/stat-boost-quests"], "icon": "info-circle", "style": {"color":"#f1f5f9"} },
     { "name": "Faercis"                       , "x":  6567, "y":  2515, "category": "quest", "questGuideIds": ["misc/stat-boost-quests"], "icon": "info-circle", "style": {"color":"#f1f5f9"} },
-    { "name": "Tenacious Frost Giant"         , "x":  4991, "y":   970, "category": "camp", "levelRange": "55-55", "icon": "users", "style": {"color":"#f1f5f9"} },
+    { "name": "Tenacious Frost Giant"         , "x":  4991, "y":   971, "category": "camp", "levelRange": "55-55", "icon": "users", "style": {"color":"#f1f5f9"} },
     { "name": "Icetomb"                       , "x":  5887, "y":   175, "category": "camp", "levelRange": "1-1", "icon": "warehouse", "style": {"color":"#f1f5f9"} },
     { "name": "Dreadnaught"                   , "x":  6118, "y":   755, "category": "quest", "questGuideIds": ["portal/isle-of-dread"], "icon": "info-circle", "style": {"color":"#f1f5f9"} },
     { "name": "Giant Excavation Site"         , "x":  4601, "y":   563, "category": "quest", "questGuideIds": ["misc/anu-village-pet"], "icon": "info-circle", "style": {"color":"#f1f5f9"} },
